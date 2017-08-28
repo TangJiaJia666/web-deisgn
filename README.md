@@ -47,4 +47,4 @@ header>.container>#branding>h1>span.highlight{Hello}+{world!}^^nav>ul>li*5>a
  - [@Traversy Media - YouTube教学课程](https://www.youtube.com/user/TechGuyWeb/playlists)我在@Traversy Media教学课程[关于如何构建一个具有html5的响应式布局网页](https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU)
 
 
-![by TangJiaJia](https://TangJiaJia666.github.io/web-deisgn/)
+![by TangJiaJia](https://github.com/TangJiaJia666)
