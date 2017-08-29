@@ -41,10 +41,10 @@ header>.container>#branding>h1>span.highlight{Hello}+{world!}^^nav>ul>li*5>a
 `section#showcase>.container>h1{Lorem}+p{Lorem}+p{Lorem}`
 
 
-- #致谢
- - [渐变色@uigradients](https://uigradients.com/#Shore)
- - banner图使用的[@photoshopvip](http://photoshopvip.net/67403)推荐的谷歌Material Design Psd NumbersPSD的其中一篇,原址忘了,可去**photoshopvip**PSD名字搜下载
- - [@Traversy Media - YouTube教学课程](https://www.youtube.com/user/TechGuyWeb/playlists)我在@Traversy Media教学课程[关于如何构建一个具有html5的响应式布局网页](https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU)
+- 致谢
+  - [渐变色@uigradients](https://uigradients.com/#Shore)
+  - banner图使用的[@photoshopvip](http://photoshopvip.net/67403)推荐的谷歌Material Design Psd NumbersPSD的其中一篇,原址忘了,可去   **photoshopvip**PSD名字搜下载
+  - [@Traversy Media - YouTube教学课程](https://www.youtube.com/user/TechGuyWeb/playlists)我在@Traversy Media教学课程[关于如何构建一个具有html5的响应式布局网页](https://www.youtube.com/watch?v=UB1O30fR-EE&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU)
 
 
 ![by TangJiaJia](https://github.com/TangJiaJia666)
